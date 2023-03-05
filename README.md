@@ -10,3 +10,6 @@ A beautiful personal homepage template.
 - hover效果
 - 扁平化设计
 - 视差背景
+
+# DEMO
+[我自己的个人主页](zaqueo.site)
